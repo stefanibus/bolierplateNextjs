@@ -174,7 +174,7 @@ const Index = () => {
         Check our GitHub project for more information about{' '}
         <a href="https://github.com/stefanibus/bolierplateNextjs">
           Nextjs Boilerplate
-        </a> 
+        </a>
       </p>
     </Main>
   )
