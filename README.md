@@ -1,12 +1,18 @@
-# Boilerplate and Starter for Next JS 11+, Tailwind CSS 2.0 and TypeScript [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
+# Boilerplate and Starter for Next JS 11+, Tailwind CSS 2.0 and TypeScript  
 
-<p align="center">
-  <a href="https://creativedesignsguru.com/demo/Nextjs-Boilerplate/"><img src="public/assets/images/nextjs-starter-banner.png?raw=true" alt="Next js starter banner"></a>
-</p>
+
+###### Online Demo on Netlify: https://kind-varahamihira-d1968f.netlify.app/
+
+
+###### Demo on Netlify: https://kind-varahamihira-d1968f.netlify.app/
+ 
+
+[![Sponsor Next JS Boilerplate](https://raw.githubusercontent.com/stefanibus/bolierplateNextjs/main/public/assets/images/nextjs-starter-banner.png?raw=true)](https://kind-varahamihira-d1968f.netlify.app//) 
+ 
 
 🚀 Boilerplate and Starter for Next.js, Tailwind CSS and TypeScript ⚡️ Made with developer experience first: Next.js, TypeScript, ESLint, Prettier, Husky, Lint-Staged, VSCode, Netlify, PostCSS, Tailwind CSS.
 
-Clone this project and use it to create your own [Next.js](https://nextjs.org) project. You can check a [Next js templates demo](https://creativedesignsguru.com/demo/Nextjs-Boilerplate/).
+Clone this project and use it to create your own [Next.js](https://nextjs.org) project. You can check a [Next js templates demo](https://github.com/stefanibus/bolierplateNextjs).
 
 ### Features
 
@@ -45,15 +51,7 @@ Built-in feature from Next.js:
 Building your SaaS product faster with [Nextless JS SaaS Boilerplate](https://nextlessjs.com).
 
 [![Nextless React SaaS Boilerplate](https://nextlessjs.com/assets/images/hero-image.png)](https://nextlessjs.com)
-
-### Premium Themes
-
-| [Green Nextjs Landing Page Template](https://creativedesignsguru.com/landing-green-modern-nextjs-theme/) | [Purple Saas Nextjs Theme](https://creativedesignsguru.com/landing-purple-modern-react-theme/) |
-| --- | --- |
-| [![Green Nextjs Landing Page Template](https://creativedesignsguru.com/assets/images/themes/landing-green-modern-nextjs-theme-xs.png)](https://creativedesignsguru.com/landing-green-modern-nextjs-theme/) | [![Blue Landing Page Nextjs Theme](https://creativedesignsguru.com/assets/images/themes/landing-blue-modern-nextjs-theme-xs.png)](https://creativedesignsguru.com/landing-blue-modern-react-theme/) |
-
-Find more [Nextjs Themes](https://creativedesignsguru.com/category/nextjs/).
-
+ 
 ### Requirements
 
 - Node.js and npm
@@ -151,6 +149,6 @@ See [LICENSE](LICENSE) for more information.
 
 ---
 
-Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
+Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com)  
 
-[![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://www.buymeacoffee.com/ixartz)
+[![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)]()
