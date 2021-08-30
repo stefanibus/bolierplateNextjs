@@ -1,9 +1,6 @@
 # Boilerplate and Starter for Next JS 11+, Tailwind CSS 2.0 and TypeScript  
 
-
-###### Online Demo on Netlify: https://kind-varahamihira-d1968f.netlify.app/
-
-
+ 
 ###### Demo on Netlify: https://kind-varahamihira-d1968f.netlify.app/
  
 
