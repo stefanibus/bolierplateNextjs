@@ -17,7 +17,7 @@ const Index = () => {
         />
       }
     >
-      <a href="https://github.com/ixartz/Next-js-Boilerplate">
+      <a href="https://github.com/stefanibus/Next-js-Boilerplate">
         <img
           src={`${router.basePath}/assets/images/nextjs-starter-banner.png`}
           alt="Nextjs starter banner"
@@ -172,14 +172,9 @@ const Index = () => {
       </ul>
       <p>
         Check our GitHub project for more information about{' '}
-        <a href="https://github.com/ixartz/Next-js-Boilerplate">
+        <a href="https://github.com/stefanibus/bolierplateNextjs">
           Nextjs Boilerplate
-        </a>
-        . You can also browse our{' '}
-        <a href="https://creativedesignsguru.com/category/nextjs/">
-          Premium NextJS Templates
-        </a>{' '}
-        on our website to support this project.
+        </a> 
       </p>
     </Main>
   )
