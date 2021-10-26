@@ -17,7 +17,7 @@ const Index = () => {
         />
       }
     >
-      <a href="https://github.com/stefanibus/Next-js-Boilerplate">
+      <a href="https://github.com/stefanibus/bolierplateNextjs">
         <img
           src={`${router.basePath}/assets/images/nextjs-starter-banner.png`}
           alt="Nextjs starter banner"
@@ -159,7 +159,7 @@ const Index = () => {
           Cache busting
         </li>
       </ul>
-      <h2 className="font-semibold text-lg">Our Stater code Philosophy</h2>
+      <h2 className="font-semibold text-lg">Our Starter code Philosophy</h2>
       <ul>
         <li>Minimal code</li>
         <li>SEO-friendly</li>
